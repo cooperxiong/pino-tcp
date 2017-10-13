@@ -1,6 +1,6 @@
 {
   "name": "pino-tcp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "TCP transport for pino with reconnection.",
   "main": "index.js",
   "scripts": {
