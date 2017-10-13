@@ -1,0 +1,23 @@
+{
+  "name": "pino-tcp",
+  "version": "1.0.1",
+  "description": "TCP transport for pino with reconnection.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cooperxiong/pino-tcp.git"
+  },
+  "keywords": [
+    "pino",
+    "tcp"
+  ],
+  "author": "Cooper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cooperxiong/pino-tcp/issues"
+  },
+  "homepage": "https://github.com/cooperxiong/pino-tcp#readme"
+}
